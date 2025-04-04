@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: 孔雀大明王的AI技术博客
+SEOTitle: 孔雀大明王的AI技术博客 | 孔雀大明王 AI Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: markwgggle@gmail.com
+description: "这里是 孔雀大明王 的个人AI博客，与你一起发现更好玩的的AI世界 | 未来是AI的世界要做一个有 swag 的程序员"
+keyword: "孔雀大明王AI博客, 孔雀大明王, AI博客, AI技术博客, AI blog, AI 程序员, 孔雀大明王的博客, 孔雀大明王 AI Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+url: "https://huifeidexingyuner.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: huifeidexingyunerpro
+zhihu_username: huifeidexingyunerpro
+github_username: huifeidexingyunerpro
+twitter_username: huifeidexingyunerpro
+#facebook_username:  huifeidexingyunerpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: huifeidexingyunerpro
 
 # Netease settings
 netease_comment: false
