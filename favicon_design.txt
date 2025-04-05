@@ -1,0 +1,19 @@
+# AI程序员Favicon设计说明
+
+这个文件描述了网站需要的新favicon设计：
+
+1. 设计主题：AI程序员swag
+2. 建议元素：
+   - 代码符号或编程元素
+   - AI相关图形（如电路、神经网络等）
+   - 简洁、现代的设计风格
+3. 尺寸要求：
+   - 主favicon.ico：16x16和32x32（多尺寸ICO文件）
+   - PWA图标：需要替换pwa/icons目录下的128.png和512.png
+
+设计完成后，需要替换以下文件：
+- img/favicon.ico
+- pwa/icons/128.png
+- pwa/icons/512.png
+
+同时需要更新manifest.json中的网站名称和描述，使其与AI程序员主题一致。
